@@ -1,12 +1,30 @@
 Repository Objectives
 
-This repository intends to demonstrate an understanding of the following concepts:
-- What ES6 is
-- New features introduced in ES6
-- The difference between a constant and a variable
-- Block-scoped variables
-- Arrow functions and function parameters default to them
-- Rest and spread function parameters
-- String templating in ES6
-- Object creation and their properties in ES6
-- Iterators and for-of loops
+This repository intends to demonstrate an understanding of the following concepts as it relates to backend web development:
+
+--Modern JavaScript--
+ES6
+TypeScript
+Node JS basic
+Unittests
+
+--Python--
+Variable annotations
+Async
+Unittests and integration tests
+
+--Storage--
+Advanced MySQL
+NoSQL
+Redis
+
+--Back-end--
+Pagination
+Caching
+i18n
+Queuing system in JS
+
+--User Data--
+Personal data
+Authentication - Basic & Session
+User authentication
