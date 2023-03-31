@@ -40,7 +40,7 @@ interface printTeacherFunction {
 export const printTeacher: printTeacherFunction = (firstName: string, lastName: string): string =>`${firstName.charAt(0)}. ${lastName}`;
 
 
-console.log(printTeacher('Dani', 'Fantu'));
+console.log(printTeacher('John', 'Doe'));
 
 
 // Writing a Class
